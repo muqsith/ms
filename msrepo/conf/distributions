@@ -1,0 +1,7 @@
+Origin: muqsith
+Label: muqsith Github
+Suite: stable
+Codename: wheezy
+Architectures: amd64
+Components: main
+Description: ms package hosted in muqsiths github repo

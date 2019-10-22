@@ -1,0 +1,13 @@
+Package: ms
+Architecture: all
+Maintainer: muqsithirfan@gmail.com
+Version: 1.0
+Priority: optional
+Section: utils
+Filename: pool/main/m/ms/ms_1.0_all.deb
+Size: 996516
+SHA256: 320dbc5a8437731ab4d5e3eb326e06ee7fc215f6e117bef0609fe3c6e2683486
+SHA1: 29cc5e05655412db54f1dc776581e2e421002e95
+MD5sum: cf972cc0aeffaa854d022ac50006c188
+Description: ms
+

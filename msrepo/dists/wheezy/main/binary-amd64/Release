@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: muqsith
+Label: muqsith Github
+Architecture: amd64
+Description: ms package hosted in muqsiths github repo
