@@ -1,20 +1,20 @@
-Origin: muqsith
-Label: muqsith Github
+Origin: ms
+Label: muqsiths Github
 Suite: stable
-Codename: wheezy
-Date: Tue, 22 Oct 2019 08:58:51 UTC
+Codename: bionic
+Date: Wed, 23 Oct 2019 02:13:36 UTC
 Architectures: amd64
 Components: main
 Description: ms package hosted in muqsiths github repo
 MD5Sum:
  5b6d7ffd29f853cbc96f26ffe3499c96 343 main/binary-amd64/Packages
  cac0d359a847043a69d60243efc6a383 280 main/binary-amd64/Packages.gz
- 4e5343e7ffb93b288e2cac85cd29e67d 145 main/binary-amd64/Release
+ aedf3e3751b9122289135b4238b7c28f 141 main/binary-amd64/Release
 SHA1:
  95aa755957f120013079e4af996c7e922fe2dc53 343 main/binary-amd64/Packages
  9117b1a9caab59053f2072f35c54624f4ed54195 280 main/binary-amd64/Packages.gz
- cb9572ac921d1115f57fb1fa1f3bc349e2e661bc 145 main/binary-amd64/Release
+ 048011cefdca1ff35bfa6ba0a6b28486339fc973 141 main/binary-amd64/Release
 SHA256:
  f9120c5e428f91010dc669e30c644bbe29e4c3dbdf0c65a830f356fa32d9aebb 343 main/binary-amd64/Packages
  fd68410c4cf5956471c782b6c75134edf06f116dd1b9fbbb2b603831b4af4390 280 main/binary-amd64/Packages.gz
- 350d83055da2081958e8ac2f310790814f8b83e0b377e9d411d9c6d4fa2f1263 145 main/binary-amd64/Release
+ 50f6d4bfeef498a2e39b07abbb21e1b7c48a89a551b6befb9a20ee85988a5cb2 141 main/binary-amd64/Release

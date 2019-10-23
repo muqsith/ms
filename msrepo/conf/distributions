@@ -1,7 +1,7 @@
 Origin: ms
 Label: muqsiths Github
 Suite: stable
-Codename: wheezy
+Codename: bionic
 Architectures: amd64
 Components: main
 Description: ms package hosted in muqsiths github repo
